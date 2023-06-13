@@ -4,7 +4,7 @@ except:
     pass
 
 from import_module import *
-from PyQt import sample_widget_template, color_variable, styleSheet
+from PyQt_ import sample_widget_template, color_variable, styleSheet
 
 
 class sampleWidget(QWidget):
